@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="650" viewBox="0 0 1100 650">
+<rect width="1100" height="650" fill="#F8FAFC"/>
+<text x="50" y="55" font-family="Arial" font-size="28" font-weight="700" fill="#0F172A">Week 4 — Responsive Component Library</text>
+<text x="50" y="84" font-family="Arial" font-size="14" fill="#64748B">Figma component reference</text>
+<rect x="50" y="120" width="500" height="250" rx="16" fill="#FFFFFF" stroke="#E2E8F0"/>
+<text x="80" y="160" font-family="Arial" font-size="20" font-weight="700" fill="#0F172A">Responsive Card</text>
+<text x="80" y="195" font-family="Arial" font-size="14" fill="#64748B">Card / Responsive</text>
+<text x="80" y="235" font-family="Arial" font-size="14" fill="#0F172A">Auto Layout: Vertical</text>
+<text x="80" y="260" font-family="Arial" font-size="14" fill="#0F172A">Padding: 24px · Gap: 16px</text>
+<text x="80" y="285" font-family="Arial" font-size="14" fill="#0F172A">Width: Fill Container</text>
+<text x="80" y="310" font-family="Arial" font-size="14" fill="#0F172A">Height: Hug Contents</text>
+<rect x="80" y="330" width="110" height="36" rx="8" fill="#2563EB"/>
+<text x="111" y="353" font-family="Arial" font-size="13" font-weight="600" fill="#FFFFFF">Continue</text>
+<text x="610" y="145" font-family="Arial" font-size="18" font-weight="700" fill="#0F172A">Button States</text>
+<rect x="610" y="170" width="145" height="42" rx="8" fill="#2563EB"/><text x="655" y="197" font-family="Arial" font-size="13" font-weight="600" fill="#FFFFFF">Default</text>
+<rect x="780" y="170" width="145" height="42" rx="8" fill="#1D4ED8"/><text x="828" y="197" font-family="Arial" font-size="13" font-weight="600" fill="#FFFFFF">Hover</text>
+<rect x="610" y="230" width="145" height="42" rx="8" fill="#1D4ED8"/><text x="660" y="257" font-family="Arial" font-size="13" font-weight="600" fill="#FFFFFF">Active</text>
+<rect x="780" y="230" width="145" height="42" rx="8" fill="#FFFFFF" stroke="#93C5FD" stroke-width="3"/><text x="830" y="257" font-family="Arial" font-size="13" font-weight="600" fill="#0F172A">Focus</text>
+<rect x="610" y="290" width="145" height="42" rx="8" fill="#E2E8F0"/><text x="657" y="317" font-family="Arial" font-size="13" font-weight="600" fill="#64748B">Disabled</text>
+<rect x="50" y="420" width="875" height="170" rx="16" fill="#FFFFFF" stroke="#E2E8F0"/>
+<text x="80" y="458" font-family="Arial" font-size="18" font-weight="700" fill="#0F172A">Responsive behaviour to test in Figma</text>
+<text x="80" y="492" font-family="Arial" font-size="14" fill="#0F172A">• Long text should increase card height automatically.</text>
+<text x="80" y="518" font-family="Arial" font-size="14" fill="#0F172A">• Card width should fill its parent container.</text>
+<text x="80" y="544" font-family="Arial" font-size="14" fill="#0F172A">• Buttons should remain usable with different labels.</text>
+<text x="80" y="570" font-family="Arial" font-size="14" fill="#0F172A">• Use component instances rather than detached copies.</text>
+</svg>
